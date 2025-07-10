@@ -1,1 +1,3 @@
-# simile-or-not.github.io
+# Сайт Simile
+Просто мой личный сайт.  
+
