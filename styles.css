@@ -12,7 +12,7 @@ a {
 
 .box {
   width: 800px;
-  background: red;
+  background: #d10808;
   border-radius: 5px;
   margin: 0 auto;
   display: grid;
